@@ -1,0 +1,12 @@
+{
+  "name": "firibstop-uz-secure",
+  "version": "1.0.0",
+  "private": true,
+  "description": "FiribStop UZ: проверка сообщений, тренажёр, план действий после обмана",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
